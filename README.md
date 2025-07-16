@@ -2,7 +2,7 @@
 
 Este projeto é uma Calculadora de IMC (Índice de Massa Corporal) desenvolvida com HTML, CSS e JavaScript. A aplicação permite que o usuário insira sua altura e peso, e calcule automaticamente o IMC, exibindo a classificação conforme a tabela da Organização Mundial da Saúde.
 
-
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 #Funcionalidades
 Entrada de altura (em cm) e peso (em kg).
 
@@ -21,7 +21,7 @@ Obesidade
 Obesidade mórbida
 
 Exibição do resultado em um alerta.
-
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #Tecnologias Utilizadas
 HTML: Estrutura da página.
@@ -29,6 +29,7 @@ HTML: Estrutura da página.
 CSS: Estilização dos elementos visuais, com foco em responsividade básica e layout centralizado.
 
 JavaScript: Lógica para captura de dados do usuário, cálculo do IMC e exibição do resultado.
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 #Como Usar
@@ -41,6 +42,7 @@ Insira sua altura e peso nos campos indicados.
 Clique no botão Calcular.
 
 O resultado será exibido em um alerta.
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 
